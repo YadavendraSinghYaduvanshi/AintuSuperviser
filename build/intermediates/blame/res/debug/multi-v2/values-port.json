@@ -1,32 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\P&GSupervisor\\godrej\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "D:\\Neeraj\\Final Projects\\AintuSupervisor\\AintuSuperviser\\godrej\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\yadavendras.CPMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\8ff9ce20ba20511bf6b80756ca7fd955\\res\\values-port\\values-port.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "229",
-                        "endColumns": "55",
-                        "endOffsets": "280"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "55",
-                        "endOffsets": "106"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "E:\\GodrejSuperviser\\godrej\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\yadavendras.CPMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\8ff9ce20ba20511bf6b80756ca7fd955\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\neerajg\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\dae662b97da749963f0d72a1cba4f6ce\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
